@@ -1,4 +1,4 @@
-### Olá sou o Magnum Souza 👋
+### Olá sou o Magnum Souza, criador de conteúdo de programação e tecnologia! 👋
 
 
 - 👨🏿‍🎓 Sou formado em análise e desenvolvimento de sistemas...
